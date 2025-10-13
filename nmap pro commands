@@ -6,6 +6,6 @@ nmap -p 80 --script http-enum kun.uz
 nmap kun.uz (basic scanning) 
 
 nmap -sU <ip>    (UDP scanning )
-
+nmap -f <ip> (strong command)
 
 мы юзаем свои скрипты для nmap тут пример сканнирования 
