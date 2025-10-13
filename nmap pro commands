@@ -1,0 +1,11 @@
+
+nmap  104.26.13.83 -sS (tcp-syn port scan) 
+
+nmap -p 80 --script http-enum kun.uz
+
+nmap kun.uz (basic scanning) 
+
+nmap -sU <ip>    (UDP scanning )
+
+
+мы юзаем свои скрипты для nmap тут пример сканнирования 
